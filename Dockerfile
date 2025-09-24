@@ -18,4 +18,4 @@ COPY get_weather.py .
 RUN pip install --no-cache-dir -r requirements.txt
 
 # Команда для запуска бота
-CMD ["python", "main.py"]
+CMD ["python", "weather_bot.py"]
