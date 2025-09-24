@@ -1,0 +1,6 @@
+aiogram==3.15.0
+aiogram_dialog==2.3.1
+sqlalchemy
+psycopg[binary]
+pydantic
+pyyaml
