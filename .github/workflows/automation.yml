@@ -31,4 +31,4 @@ jobs:
           push: true
           # С каким тегом будет загружен образ
           # Переменные тоже поддерживаются
-          tags: alekseev.aleksandr2789@gmail.com/test-docker-push:latest
+          tags: kamyzaker/test-docker-push:latest
